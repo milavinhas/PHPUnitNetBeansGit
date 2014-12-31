@@ -1,11 +1,11 @@
-{
-    "require": {
-        "phpunit/phpunit": "@stable",
-        "squizlabs/php_codesniffer": "2.*",
-        "phploc/phploc": "@stable",
-        "pdepend/pdepend" : "@stable",
-        "phpmd/phpmd" : "@stable",
-        "sebastian/phpcpd": "@stable",
-        "theseer/phpdox": "0.7.0"
-    }
-}
+        {
+            "require": {
+                "phpunit/phpunit": "@stable",
+                "squizlabs/php_codesniffer": "2.*",
+                "phploc/phploc": "@stable",
+                "pdepend/pdepend" : "@stable",
+                "phpmd/phpmd" : "@stable",
+                "sebastian/phpcpd": "@stable",
+                "theseer/phpdox": "0.7.0"
+            }
+        }
