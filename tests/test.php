@@ -13,6 +13,6 @@ class CalcTest extends PHPUnit_Framework_TestCase
         $valor1 = 2;
         $valor2 = 3;
         $calc = new Calc();
-        $this->assertEquals(7, $calc->soma($valor1, $valor2));
+        $this->assertEquals(5, $calc->soma($valor1, $valor2));
     }    
 }
